@@ -1,4 +1,4 @@
-# Steam DB
+# Steam DB :rocket:
 
 ## Group members
 
